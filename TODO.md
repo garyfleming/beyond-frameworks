@@ -3,6 +3,7 @@
 * Talk about crutches, not going for physio etc
 * Worth talking about why we have crutches, why they're essential.
 * Worth mentioning the limits of the crutches metaphor explicitly. People often need mobility aids in real-life and that doesn't make them, in any way, lesser.
+* Possibly expand the metaphor to tell people to beware of Faith Healers
 * POssibly framing device: Explaining what anarchy really is
 * Cadences and new years resolutions -- waiting when you can act.
 * Cadence is always a crutch. Delve into why and better alternatives.
