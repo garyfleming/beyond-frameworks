@@ -1,5 +1,6 @@
 # Possible TODOs.
 
+* ""We know the one true way to manage the software lifecycle. We don't actually write software, but we can certify you."" https://twitter.com/DocOnDev/status/1035195859456147456
 * Talk about crutches, not going for physio etc
 * Worth talking about why we have crutches, why they're essential.
 * Worth mentioning the limits of the crutches metaphor explicitly. People often need mobility aids in real-life and that doesn't make them, in any way, lesser.
@@ -12,7 +13,7 @@
 * Design Sprints as an enabling constraint
 * Hierarchy as both enabling and disabling constraint. Where does this lead us? Anarchy? Holocracy? They're also problematic
 * “I had some terrible consultants in my team, so we wrote a guide that they could follow to run through with their teams.” — simplified. Boiled down. But it helps
-* Meme copying is generally unhelpful. The Spotify Model shouldn't be your model, because it doesn't fit you. Fitting your org to a model is backwards. Especially because the Spotify Model was **never** a fully-realized model; they never did it across the whole org. (rewatch Joakim Sunden's talk https://vimeo.com/240125835)
+* Meme copying is generally unhelpful. The Spotify Model shouldn't be your model, because it doesn't fit you. Fitting your org to a model is backwards. Especially because the Spotify Model was **never** a fully-realized model; they never did it across the whole org. Rewatch Joakim Sunden's talk  https://vimeo.com/240125835 . Its all good but the spotify model bit is at 20:50ish
 * Continuous integration and continuous delivery are examples of the benefits when we remove our constraints and ingrained ways of working -- faster, cheaper, safer, with more learning. Provably (thanks state of devops)
 * Bring in elements of The Wedding Ritual and/or Agile without Ceremony
 * Signal: irregular flow at certain points might indicate good point to remove cadence. Particularly around early phase/planning.
@@ -31,3 +32,8 @@
 * Marquet: Autonomy is enabled by alignment and competence
 * Talk about autonomy as more tractable than anarachy. Doesn't mean do whatever we want, but less constrained than models.
 * Autonomy and CI/CD and continuous experimentation come from excellence
+* Could talk about Valve software. Tyranny of structurelessness
+* Team stability is important. Is this orthogonal?
+* People want/need predictability. Basing this off real data on a day to day basis is more accurate and reflective of change than using sprint planning analytics, with a resolution of weeks where the work is guessed at.
+* Most certifications are a crutch.
+* An overarching theme might be that we start by describing agile in the manifesto, using it to argue for alternatives to the current frameworks and structures and all the other bits we want, then at the end we tear down the manifesto itself.
