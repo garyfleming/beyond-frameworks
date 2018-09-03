@@ -28,6 +28,7 @@
 * Look at some models and attack: Scrum, XP
 * Retrospective coherence - Talk about memories. Your first childhood memory of going through the piazza in your red buggy. Describe details. Then reveal it's in 3rd person. Most memories are. Explain retrospective coherence. Explain how it fits with how we adopt models.
 * The manifesto doesn't have a model. It has few practices. It has one ceremony.
+* Standups are on a daily cadence. Feels like a minimum. We should be constantly collaborating so they're less useful. Talking daily IS A MINIMUM.
 * Accountability for deliver: if everyone is accountable, then no-one is.
 * Marquet: Autonomy is enabled by alignment and competence
 * Talk about autonomy as more tractable than anarachy. Doesn't mean do whatever we want, but less constrained than models.
@@ -37,3 +38,4 @@
 * People want/need predictability. Basing this off real data on a day to day basis is more accurate and reflective of change than using sprint planning analytics, with a resolution of weeks where the work is guessed at.
 * Most certifications are a crutch.
 * An overarching theme might be that we start by describing agile in the manifesto, using it to argue for alternatives to the current frameworks and structures and all the other bits we want, then at the end we tear down the manifesto itself.
+* If we keep the dance metaphor alive, we could bookend the talk with something on Benesh Movement Notation
