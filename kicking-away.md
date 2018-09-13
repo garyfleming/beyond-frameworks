@@ -36,17 +36,18 @@ theme: Poster, 7
 
 ![](images/hurt.jpg)
 
-^^ What does it mean?
-^^ Sometimes we get hurt or injure ourselves for a while, maybe falling off a waterfall,
-^^ Sometimes we need a crutch to help us for a while, because it's better than when we were hurt.
-^^ but we need to recognise when it's hindering us.
+^ What does it mean?
+^ Imagine someone at the top of a cliff, a waterfall. They slip, fall, and hurt themselves.
+^ They might, for a while, need something to help them continue walking. That's okay, but it's probably a crutch.
+^ It's better than hurting, but we need to recognise when it's hindering.
 
 ---
 
 # 🚶‍♀️🚶🏾‍♂️🏃🏼‍♀️🏃🏿‍♂️🕺💃🏽
 
 ^^ When we should be doing more physio, to be a bit more agile.
-^^ so that we can walk, and run, and dance... Whatever we need to do at any given time
+^^ so that we can walk, and run, and dance... Whatever we need to do at any given time.
+^ Just because something helped us in the past, doesn't mean it isn't constraining us now.
 
 ---
 
@@ -54,10 +55,8 @@ theme: Poster, 7
 
 ![](images/value.jpg)
 
-^ That is, we should be focussing on the things we value, not the means by which we do them.
+^ We should be focussing on the things we value, not the means by which we do them.
 ^ A while back I was getting fed-up seeing rote forms of agile. People doing the scrum they learned from someone else. People following a process with which they had absolutely no engagement. Meme-copying. Cargo culting. They'd forgotten the value. They'd forgotten to think.
-
-
 
 ---
 
@@ -112,17 +111,17 @@ theme: Poster, 7
 
 ---
 
-# Manifesto Principles?
+# Manifesto Ceremonies?
 
-^^ Manifesto principles: no real ceremonies in there. No structure is implied. If you can benefit from one, use it, sure, but you don't need to. No-one was saying you did.
+^^ Manifesto principles: no real ceremonies in there (like standups, or backlog refinement). No structure is implied. If you can benefit from a ceremony, use it, sure, but you don't need to. No-one was saying you did.
 
 ---
 
 
-### "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly"
+### "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly"
 
 
-^ You could argue that "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly" implies a Retrospective ceremony. I wouldn't strongly disagree, but I'd argue there might be better ways in some circumstances.
+^ You could argue that "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly" implies a Retrospective ceremony. I wouldn't strongly disagree, but I'd argue there might be better ways in some circumstances. We'll come back to this.
 
 ---
 
@@ -174,8 +173,8 @@ theme: Poster, 7
 
 # Forget Sprints: Customer Collaboration
 
-^ If we have a CI/CD world where our customers see the latest thing at least once a day, we should use that as our feedback loop. We should be working with our customers daily to figure out, given what we collectively know, what we should be doing right now.
-^ NOT what we might start in two weeks time.
+^ We should speak to, monitor, and engage with our customers and, we should use that as our feedback loop. We should be working with our customers daily to figure out, given what we collectively know, what we should be thinking about right now.
+^ NOT what we might start in two weeks time. Or usually multiple sprints away.
 
 ---
 
@@ -192,8 +191,8 @@ theme: Poster, 7
 * 3 Items,
 * Two Weeks.
 
-^ You can still do retros on cadence if you want. I'd see inspecting and adapting on cadence as a minimum threshold. But when you have problems INSPECT AND ADAPT
-^ Have a 3 item or two week retrospective rule
+^ You can still do retros on cadence if you want. I'd see inspecting and adapting on cadence as a minimum threshold. But when you have problems INSPECT AND ADAPT NOW
+^ Put up a board and adopt the rule: immediate action, 3 items, or two weeks
 
 ---
 
