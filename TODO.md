@@ -38,4 +38,8 @@
 * People want/need predictability. Basing this off real data on a day to day basis is more accurate and reflective of change than using sprint planning analytics, with a resolution of weeks where the work is guessed at.
 * Most certifications are a crutch.
 * An overarching theme might be that we start by describing agile in the manifesto, using it to argue for alternatives to the current frameworks and structures and all the other bits we want, then at the end we tear down the manifesto itself.
+* Models are imperfect but helpful: https://twitter.com/MartinBurnsSCO/status/1044456649971372032
+* Spotify model only works for spotify: https://twitter.com/mfloryan/status/1046076483100430336
+* Linear flow boards. Some flow isn’t linear. There are better visualisations
 * If we keep the dance metaphor alive, we could bookend the talk with something on Benesh Movement Notation
+* retrospective formats. A handful of standards, all probing the same thing. Stop, start, continue. Lacked, liked, lalala. Million better ways to go. Lots of avenues to explore. Team harmony. How do other teams view you?
