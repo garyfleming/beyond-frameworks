@@ -45,4 +45,5 @@
 * retrospective formats. A handful of standards, all probing the same thing. Stop, start, continue. Lacked, liked, lalala. Million better ways to go. Lots of avenues to explore. Team harmony. How do other teams view you?
 * https://twitter.com/garyfleming/status/1051788704401027072. My idea here is that some forms are rote or generic. Gives space for ideas but also kills them with lack of imagination/spark of interest. Sometimes we want specific probing and questions
 * https://twitter.com/mattbarcomb/status/1051888221926248448
-* Sal's talk from FFS Conf.  Session facilitation where we make people think on their feet isn't great. Most ceremonies should be a starting point, not an ending point, of the conversation.  https://cucumber.io/blog/2018/10/04/ffs-not-everyone-likes-thinking-on-their-feet 
+* Sal's talk from FFS Conf.  Session facilitation where we make people think on their feet isn't great. Most ceremonies should be a starting point, not an ending point, of the conversation.  https://cucumber.io/blog/2018/10/04/ffs-not-everyone-likes-thinking-on-their-feet
+* Goals of a retro: http://blog.gdinwiddie.com/2012/05/30/goals-of-a-retrospective/
