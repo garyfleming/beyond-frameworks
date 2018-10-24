@@ -47,3 +47,4 @@
 * https://twitter.com/mattbarcomb/status/1051888221926248448
 * Sal's talk from FFS Conf.  Session facilitation where we make people think on their feet isn't great. Most ceremonies should be a starting point, not an ending point, of the conversation.  https://cucumber.io/blog/2018/10/04/ffs-not-everyone-likes-thinking-on-their-feet
 * Goals of a retro: http://blog.gdinwiddie.com/2012/05/30/goals-of-a-retrospective/
+* Retros are not continuous improvement: https://www.extremeuncertainty.com/retros-not-continuous-improvement/
