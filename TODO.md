@@ -49,3 +49,4 @@
 * Goals of a retro: http://blog.gdinwiddie.com/2012/05/30/goals-of-a-retrospective/
 * Retros are not continuous improvement: https://www.extremeuncertainty.com/retros-not-continuous-improvement/
 * Tuckman was wrong: https://onbelay.co/articles/2017/5/5/tuckman-was-wrong
+* More uncovering better ways, less bad-mouthing existing ways: https://twitter.com/CatSwetel/status/1057314815927115781
