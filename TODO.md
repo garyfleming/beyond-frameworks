@@ -51,3 +51,4 @@
 * Retros are not continuous improvement: https://www.extremeuncertainty.com/retros-not-continuous-improvement/
 * Tuckman was wrong: https://onbelay.co/articles/2017/5/5/tuckman-was-wrong
 * More uncovering better ways, less bad-mouthing existing ways: https://twitter.com/CatSwetel/status/1057314815927115781
+* Thread on recipes: https://twitter.com/MartinBurnsSCO/status/1060957799906189312
