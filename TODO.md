@@ -15,6 +15,7 @@
 * Hierarchy as both enabling and disabling constraint. Where does this lead us? Anarchy? Holocracy? They're also problematic
 * “I had some terrible consultants in my team, so we wrote a guide that they could follow to run through with their teams.” — simplified. Boiled down. But it helps
 * Meme copying is generally unhelpful. The Spotify Model shouldn't be your model, because it doesn't fit you. Fitting your org to a model is backwards. Especially because the Spotify Model was **never** a fully-realized model; they never did it across the whole org. Rewatch Joakim Sunden's talk  https://vimeo.com/240125835 . Its all good but the spotify model bit is at 20:50ish
+* Good thread on what Spotify actually did: https://twitter.com/allenholub/status/1059672837311488000
 * Continuous integration and continuous delivery are examples of the benefits when we remove our constraints and ingrained ways of working -- faster, cheaper, safer, with more learning. Provably (thanks state of devops)
 * Bring in elements of The Wedding Ritual and/or Agile without Ceremony
 * Signal: irregular flow at certain points might indicate good point to remove cadence. Particularly around early phase/planning.
