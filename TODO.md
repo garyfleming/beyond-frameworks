@@ -54,3 +54,5 @@
 * More uncovering better ways, less bad-mouthing existing ways: https://twitter.com/CatSwetel/status/1057314815927115781
 * Thread on recipes: https://twitter.com/MartinBurnsSCO/status/1060957799906189312
 * make sure ceremonies make sense  contextually. IT services helpdesks probably don’t want Scrum.
+* More on recipes: https://twitter.com/lunivore/status/1061979301908758528
+* Stable teams have been a long held belief. Talk about Dynamic Reteaming (Heidi Helfand)
