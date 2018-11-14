@@ -56,3 +56,6 @@
 * make sure ceremonies make sense  contextually. IT services helpdesks probably don’t want Scrum.
 * More on recipes: https://twitter.com/lunivore/status/1061979301908758528
 * Stable teams have been a long held belief. Talk about Dynamic Reteaming (Heidi Helfand)
+* Recipes :) https://twitter.com/existentialcoms/status/1062080092774363137
+* Focussed retros. Pick a single topic and chat about that. Doesn't need much structure. Examples: code reviews. Mobbing. Planning. etc
+* Jabe Bloom on context for tool fit: https://twitter.com/cyetain/status/1062715771636379649
