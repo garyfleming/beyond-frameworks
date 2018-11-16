@@ -59,3 +59,4 @@
 * Recipes :) https://twitter.com/existentialcoms/status/1062080092774363137
 * Focussed retros. Pick a single topic and chat about that. Doesn't need much structure. Examples: code reviews. Mobbing. Planning. etc
 * Jabe Bloom on context for tool fit: https://twitter.com/cyetain/status/1062715771636379649
+* Chris McD on Cadence as a constraint: https://twitter.com/chrisvmcd/status/1063351351537737728
