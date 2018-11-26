@@ -60,3 +60,5 @@
 * Focussed retros. Pick a single topic and chat about that. Doesn't need much structure. Examples: code reviews. Mobbing. Planning. etc
 * Jabe Bloom on context for tool fit: https://twitter.com/cyetain/status/1062715771636379649
 * Chris McD on Cadence as a constraint: https://twitter.com/chrisvmcd/status/1063351351537737728
+* More frequent retro s (every few hours): https://twitter.com/caro_sauve/status/1066349315126218753
+* Cadenced rituals are fine, but most stuff in them should already be known: https://twitter.com/johncutlefish/status/1065491034015027200
