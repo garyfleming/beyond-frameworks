@@ -1,5 +1,6 @@
 # Possible TODOs.
 
+* Possible frame: a short rant about dogs. About how they're the same species. How we shaped them and created breeds. Working dogs with purposes. Aesthetic diversity. But a growing sickness: we favoured short-term outcomes and feeling good over systemic health. 
 * Interesting framing device: https://twitter.com/antz29/status/1058402396597043201
 * ""We know the one true way to manage the software lifecycle. We don't actually write software, but we can certify you."" https://twitter.com/DocOnDev/status/1035195859456147456
 * Talk about crutches, not going for physio etc
