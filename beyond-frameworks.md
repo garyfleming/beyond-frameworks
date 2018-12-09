@@ -1,6 +1,7 @@
 theme: Poster, 7
 
-# Kicking Away the Crutches of Agile
+# Beyond Frameworks
+## A Return to Agile
 
 @garyfleming
 
@@ -21,14 +22,14 @@ theme: Poster, 7
 
 ^ 5...4...3...
 
----
+<!-- ---
 
 # Crutches: A Metaphor
 
 ![](images/crutches.jpg)
 
 ^ What do I mean by kicking away the crutches of agile?
-^^ Metaphor. I do not condone kicking away actual crutches. Nor am I implying that, in the real world, away from the metaphor, that people don't need walking aids or are in any way **lesser** for using them
+^^ Metaphor. I do not condone kicking away actual crutches. Nor am I implying that, in the real world, away from the metaphor, that people don't need walking aids or are in any way **lesser** for using them -->
 
 ---
 
