@@ -1,4 +1,4 @@
-# Kicking Away the Crutches of Agile
+# Beyond Frameworks: A Return to Agile
 
 
 
