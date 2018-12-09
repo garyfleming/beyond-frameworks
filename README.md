@@ -1,4 +1,4 @@
-# Beyond Frameworks: A Return to Agile
+# Beyond Frameworks: Thinking and Tools
 
 
 
