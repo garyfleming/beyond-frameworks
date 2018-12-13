@@ -1,6 +1,6 @@
 # Possible TODOs.
 
-* Possible frame: a short rant about dogs. About how they're the same species. How we shaped them and created breeds. Working dogs with purposes. Aesthetic diversity. But a growing sickness: we favoured short-term outcomes and feeling good over systemic health. 
+* Possible frame: a short rant about dogs. About how they're the same species. How we shaped them and created breeds. Working dogs with purposes. Aesthetic diversity. But a growing sickness: we favoured short-term outcomes and feeling good over systemic health.
 * Interesting framing device: https://twitter.com/antz29/status/1058402396597043201
 * ""We know the one true way to manage the software lifecycle. We don't actually write software, but we can certify you."" https://twitter.com/DocOnDev/status/1035195859456147456
 * Talk about crutches, not going for physio etc
@@ -63,3 +63,5 @@
 * Chris McD on Cadence as a constraint: https://twitter.com/chrisvmcd/status/1063351351537737728
 * More frequent retro s (every few hours): https://twitter.com/caro_sauve/status/1066349315126218753
 * Cadenced rituals are fine, but most stuff in them should already be known: https://twitter.com/johncutlefish/status/1065491034015027200
+* Wardley on models being imperfect but useful: https://twitter.com/swardley/status/1072440600019038208
+* Tonianne DeMaria Barry on the fact you're not Spotify: https://twitter.com/Sprezzatura/status/588808537591132162
