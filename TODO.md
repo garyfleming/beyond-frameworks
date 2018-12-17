@@ -65,3 +65,4 @@
 * Cadenced rituals are fine, but most stuff in them should already be known: https://twitter.com/johncutlefish/status/1065491034015027200
 * Wardley on models being imperfect but useful: https://twitter.com/swardley/status/1072440600019038208
 * Tonianne DeMaria Barry on the fact you're not Spotify: https://twitter.com/Sprezzatura/status/588808537591132162
+* “no-one used the Spotify model. It didn’t really exist” “I don’t think Spotify even exist”
