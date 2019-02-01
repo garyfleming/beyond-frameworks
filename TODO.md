@@ -66,4 +66,6 @@
 * Wardley on models being imperfect but useful: https://twitter.com/swardley/status/1072440600019038208
 * Tonianne DeMaria Barry on the fact you're not Spotify: https://twitter.com/Sprezzatura/status/588808537591132162
 * “no-one used the Spotify model. It didn’t really exist” “I don’t think Spotify even exist”
-* is a helpful concluding chunk that we should seek enabling/governing constraints in a complexity space? https://theitriskmanager.wordpress.com/2018/12/16/enabling-constraints-and-hippos/ 
+* Ron Jeffries: "... These people saw patterns in how the work was done, and decided to share those patterns." https://twitter.com/RonJeffries/status/1090631234462597121
+* the lesson of the Spotify model is not the model. It’s learning to get better and giving teams space to think about improvement.
+* is a helpful concluding chunk that we should seek enabling/governing constraints in a complexity space? https://theitriskmanager.wordpress.com/2018/12/16/enabling-constraints-and-hippos/
