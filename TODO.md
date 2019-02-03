@@ -3,11 +3,18 @@
 * Possible frame: a short rant about dogs. About how they're the same species. How we shaped them and created breeds. Working dogs with purposes. Aesthetic diversity. But a growing sickness: we favoured short-term outcomes and feeling good over systemic health.
 
 
+
+
 Frame
 * More uncovering better ways, less bad-mouthing existing ways: https://twitter.com/CatSwetel/status/1057314815927115781
 * An overarching theme might be that we start by describing agile in the manifesto, using it to argue for alternatives to the current frameworks and structures and all the other bits we want, then at the end we tear down the manifesto itself.
 
+
+Value
+* People. It's a team sport
+
 Models
+* Ritualism
 * Frameworks are usually a crutch. Make us feel better that we have a method to use, but often before we know why.
 * Models are imperfect but helpful: https://twitter.com/MartinBurnsSCO/status/1044456649971372032
 * Look at some models and attack: Scrum, XP
