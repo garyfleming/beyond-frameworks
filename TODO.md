@@ -65,14 +65,12 @@ Retros
 * retrospective formats. A handful of standards, all probing the same thing. Stop, start, continue. Lacked, liked, lalala. Million better ways to go. Lots of avenues to explore. Team harmony. How do other teams view you?
 * https://twitter.com/garyfleming/status/1051788704401027072. My idea here is that some forms are rote or generic. Gives space for ideas but also kills them with lack of imagination/spark of interest. Sometimes we want specific probing and questions
 
-Certifications
-* Most certifications are a crutch.
 
 Estimation
 * Estimation in time/t-shirt sizes/whatever, vs complexity estimates
 * People want/need predictability. Basing this off real data on a day to day basis is more accurate and reflective of change than using sprint planning analytics, with a resolution of weeks where the work is guessed at.
 
-CI/code
+CI/CD
 * Autonomy and CI/CD and continuous experimentation come from excellence
 * Continuous integration and continuous delivery are examples of the benefits when we remove our constraints and ingrained ways of working -- faster, cheaper, safer, with more learning. Provably (thanks state of devops)
 
@@ -108,4 +106,5 @@ I am wrong
 * Design Sprints as an enabling constraint
 * Hierarchy as both enabling and disabling constraint. Where does this lead us? Anarchy? Holocracy? They're also problematic
 * “I had some terrible consultants in my team, so we wrote a guide that they could follow to run through with their teams.” — simplified. Boiled down. But it helps
+* Most certifications are a crutch.
 * Linear flow boards. Some flow isn’t linear. There are better visualisations
