@@ -247,6 +247,7 @@ theme: Sketchnote, 5
 # Forget Sprints: Get Greater Value Now
 
 ^ The work we do rarely fits exactly into a sprint. When it seems to, it's usually artificially fitted to the arbitrary time constraint.
+^ TODO expand on timeboxes. Explain an alternative
 
 ---
 
@@ -254,18 +255,25 @@ theme: Sketchnote, 5
 
 ^ We should speak to, monitor, and engage with our customers and, we should use that as our feedback loop. We should be working with our customers daily to figure out, given what we collectively know, what we should be thinking about right now.
 ^ NOT what we might start in two weeks time. Or usually multiple sprints away.
+^ TODO expand
+
+---
+
+# Just-In-Time Planning
+
+^ TODO Explain. Use board for signal, not time
 
 ---
 
 # Forget Sprints: Respond to Change
 
 ^ If we want to respond to change meaningfully, it helps to avoid filling up multiple weeks worth of a schedule. As well as working with out customers, we should be able to handle interruptions when they happen. We should be able to take onboard new learning quickly.
+^ TODO EXPAND explain an alternative
+
 
 ---
 
----
-
-# Chapter XXXX: You are not a Postwar Swedish Car Stream, and other mistakes
+# Chapter XXXX: Postwar Swedish Car Streaming Blues
 
 ^ TODO Models, spotify
 
