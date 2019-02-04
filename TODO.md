@@ -19,6 +19,7 @@ Models
 * Models are imperfect but helpful: https://twitter.com/MartinBurnsSCO/status/1044456649971372032
 * Look at some models and attack: Scrum, XP
 * The manifesto doesn't have a model. It has few practices. It has one ceremony.
+* safe is trying to be all breeds at once. Chihuahua Great Dane. The saint Bernard’s dachshund.
 
 Teams
 * Stable teams have been a long held belief. Talk about Dynamic Reteaming (Heidi Helfand)
