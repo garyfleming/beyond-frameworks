@@ -32,7 +32,13 @@ theme: Sketchnote, 5
 
 ^ It's important to realise that dogs are all the same species; as distinct to say, birds.
 ^ Most breeds are relatively modern, with breed standards starting only 100-150 years ago. Newer breeds can be a few decades old.
-^ We basically picked dogs who showed characteristics we wanted to see more of and mated them. Working dogs with purposes. Aesthetic diversity. But a growing sickness: we favoured short-term outcomes and feeling good over systemic health.
+^ We basically picked dogs who showed characteristics we wanted to see more of and mated them. Started with working dogs with purposes. Aesthetic diversity.
+
+---
+
+^ TODO image
+
+^ But a growing sickness: we favoured short-term outcomes and feeling good over systemic health.
 
 ---
 
@@ -43,7 +49,7 @@ theme: Sketchnote, 5
 
 ^ Anyway, that's enough about dogs and breeding. On to something that is entirely unrelated.
 ^ Who I am.
-^ I'm here to talk about agile and its current breeds... Did I say breeds? I meant frameworks. This isn't about dogs.
+^ I'm here to talk about agile and its current breeds... Did I say breeds? I meant frameworks.§§§
 
 ---
 
@@ -202,9 +208,60 @@ theme: Sketchnote, 5
 
 ---
 
-# Chapter XXXX: The New Years Resolution
+# Chapter XXXX: The New Year's Resolution
 
 ^ TODO Cadence
+
+---
+
+![](images/nyr.jpg)
+
+^ Someone told me once, in late-October, that they were planning to start going to the gym in January. A new year's resolution.
+^ We had a chat and it was clear it was something they wanted to do to aid in their goals (overall fitness, losing weight).
+^ I asked why wait? Were there things making it difficult to do it now that wouldn't be there in January?
+^ They thought about it and realised the answer was no.
+^ They had become so fixated on time, the idea of resolutions, they hadn't looked beyond it. Pushing off change to a later date that could deliver greater value NOW.
+
+---
+
+## Cadence is a constraint.
+## Cadence is always suboptimal
+
+^ Cadence is the use of time as an enabling constraint
+^ Time as a constraint is **always** suboptimal. There is always a better measure. Can be harder to see. Can be harder to track. It's always there.
+
+---
+
+# An Example: Sprints
+
+* Planning
+* Delivery
+* Customer Feedback
+* Show and tells
+* Retrospectives
+
+^ Sprints encourage us to do all these things, through various ceremonies, on the same fixed cadence. It might be the case that's optimal for your team. I doubt it.
+
+---
+
+# Forget Sprints: Get Greater Value Now
+
+^ The work we do rarely fits exactly into a sprint. When it seems to, it's usually artificially fitted to the arbitrary time constraint.
+
+---
+
+# Forget Sprints: Customer Collaboration
+
+^ We should speak to, monitor, and engage with our customers and, we should use that as our feedback loop. We should be working with our customers daily to figure out, given what we collectively know, what we should be thinking about right now.
+^ NOT what we might start in two weeks time. Or usually multiple sprints away.
+
+---
+
+# Forget Sprints: Respond to Change
+
+^ If we want to respond to change meaningfully, it helps to avoid filling up multiple weeks worth of a schedule. As well as working with out customers, we should be able to handle interruptions when they happen. We should be able to take onboard new learning quickly.
+
+---
 
 ---
 
