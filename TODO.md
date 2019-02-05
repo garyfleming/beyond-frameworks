@@ -44,6 +44,7 @@ Cadence
 * Cadences and new years resolutions -- waiting when you can act.
 * Cadence is always a crutch. Delve into why and better alternatives.
 * Chris McD on Cadence as a constraint: https://twitter.com/chrisvmcd/status/1063351351537737728
+"Cadence, a context sensitive constraint that can make things interconnected and interdependent in time"
 * More frequent retro s (every few hours): https://twitter.com/caro_sauve/status/1066349315126218753
 * Cadenced rituals are fine, but most stuff in them should already be known: https://twitter.com/johncutlefish/status/1065491034015027200
 * Cadence: https://www.infoq.com/news/2017/12/teams-decouple-cadences
@@ -86,7 +87,7 @@ I am wrong
 * Wardley on models being imperfect but useful: https://twitter.com/swardley/status/1072440600019038208
 * Ron Jeffries: "... These people saw patterns in how the work was done, and decided to share those patterns." https://twitter.com/RonJeffries/status/1090631234462597121
 * is a helpful concluding chunk that we should seek enabling/governing constraints in a complexity space? https://theitriskmanager.wordpress.com/2018/12/16/enabling-constraints-and-hippos/
-
+* Timeboxes can be useful as a maximum. We *should* look to experimental results for our answers, but we *might* also apply time constraints to ensure we do *something*.
 
 
 ## Probably Not

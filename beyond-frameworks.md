@@ -49,7 +49,13 @@ theme: Sketchnote, 5
 
 ^ Anyway, that's enough about dogs and breeding. On to something that is entirely unrelated.
 ^ Who I am.
-^ I'm here to talk about agile and its current breeds... Did I say breeds? I meant frameworks.§§§
+^ I'm here to talk about agile and its current breeds... Did I say breeds? I meant frameworks.
+
+---
+
+^ I'm going to start with a little bit of a general constraint, then talk about some small practical ideas, and move on to bigger ideas that might be a bit more... slobbery
+^ TODO 3 pictures: collar (constraint), chihuahua (small), St. Bernard's (big)
+
 
 ---
 
@@ -210,7 +216,7 @@ theme: Sketchnote, 5
 
 # Chapter XXXX: The New Year's Resolution
 
-^ TODO Cadence
+^ TODO Cadence -- Not happy with he bits I lifted from earlier version
 
 ---
 
