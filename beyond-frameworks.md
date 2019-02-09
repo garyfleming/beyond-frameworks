@@ -375,24 +375,27 @@ theme: Sketchnote, 5
 ---
 
 ^ TODO models are useful
+^ Starting from nothing... is kinda hard. It's useful to start from an existing model and evolve it. Heck, Scrum calls it out in the three pillars (visualise, inspect, adapt). We should see the models, frameworks, ceremonies etc as tools in a toolbelt. We should pull them out when appropriate. We should put them back and choose another when we can. We should accept there are tools that don't already exist that we might have to experiment to find.
+
+
+---
+
+^ Structurelessness can be tyrannical. There's a games company who are well-known to be flat and structureless... but the stories we're now hearing about it suggest that's not the case. In the presence of no formal structures, informal structures crept in. That meant factionalism, cronyism, bullying. It's much harder to fix problems in informal structures, especially when no formal structures exist to enact them.
 
 ---
 
 ^ TODO anarchy vs autonomy
 
----
-
-^ TODO structurelessness
 
 ---
 
 # I'm Wrong, And So Might You Be.
 
-^ I Know I'm wrong. So might you be. 
+^ I Know I'm wrong. So might you be.
 
 ---
 
-# Ending: Be More Mutt
+# Be More Mutt
 
 
 ^ TODO conclusion. Bring back to dog breeds. Appreciate the breeds. Appreciate that we need to be careful. Be more willing to accept mutts if they're right for us.
