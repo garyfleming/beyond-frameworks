@@ -63,6 +63,7 @@ theme: Sketchnote, 5
 
 ![](images/value.jpg)
 
+^ TODO change the picture to something DOGGY (possibly a collar)
 ^ We should be focussing on the things we value, not the means by which we do them.
 ^ A while back I was getting fed-up seeing rote forms of agile. People doing the scrum they learned from someone else. People following a process with which they had absolutely no engagement. Meme-copying. Cargo culting. They'd forgotten the value. They'd forgotten to think.
 
@@ -86,7 +87,7 @@ theme: Sketchnote, 5
 ^^^ The work we're doing is a team sport.
 ^ The idea of the lone developer being a firefighting hero is over. It was never desirable in the first place.
 ^ The idea that managers had to "sweat the resources" is over. It was never desirable in the first place.
-^ The things above help us work together; with care, kindness, and reflection. -->
+^ The things above help us work together; with care, kindness, and reflection.
 
 ---
 
@@ -134,7 +135,7 @@ theme: Sketchnote, 5
 
 # Usually Bad. Why? #
 
-^ Last week, when I was starting to write this, no fewer than 3 people, unprompted, told me they hate their standups, so I think I'm barking up the right tree.
+^ When I first wrote this, no fewer than 3 people, unprompted, told me they hate their standups, so I think I'm barking up the right tree.
 ^ They're not engaging. Often just using the three questions (What did you do yesterday...?) to tick boxes and do traditional waterfall project management. No engagement, no purpose, no joy.
 
 ---
@@ -156,7 +157,16 @@ theme: Sketchnote, 5
 ^ How might we improve?
 ^ Focus on the work. Walk the board. Start on the far right (most done) column, and move left so that we focus on getting things finished.
 ^ If people don't speak on a given day, that's fine. Make it clear we just want status and any issues. Don't need a comprehensive walkthrough of what you did.
+
+---
+
+^ TODO image/header. Dog/goal. Dog sprinting.
+
 ^ Take a minute to think about the sprint goal. Are we still headed towards it? If not, why not? It's okay to not be, but understand why and what could be done. That's what this ceremony is supposed to be for: alignment to and progress towards the sprint goal.
+
+---
+
+^ TODO some kind of conclusion
 
 ---
 
@@ -193,6 +203,7 @@ theme: Sketchnote, 5
 ^ Pick a topic and focus: mobbing, planning, code reviews, whatever.
 ^ Maybe you want to focus on team harmony - Focus a retro around where people are and aren't working well together.
 ^ Ask "What would the other teams we work with say about us? How do we change that?"
+^ TODO list some of the examples in a slide
 
 ---
 
@@ -222,6 +233,8 @@ theme: Sketchnote, 5
 
 ![](images/nyr.jpg)
 
+^ TODO replace image with dog in party hat
+
 ^ Someone told me once, in late-October, that they were planning to start going to the gym in January. A new year's resolution.
 ^ We had a chat and it was clear it was something they wanted to do to aid in their goals (overall fitness, losing weight).
 ^ I asked why wait? Were there things making it difficult to do it now that wouldn't be there in January?
@@ -233,7 +246,7 @@ theme: Sketchnote, 5
 ## Cadence is a constraint.
 ## Cadence is always suboptimal
 
-^ Cadence is the use of time as an enabling constraint
+^ Cadence is the use of time as a supposed enabling constraint
 ^ Time as a constraint is **always** suboptimal. There is always a better measure. Can be harder to see. Can be harder to track. It's always there.
 
 ---
@@ -255,6 +268,8 @@ theme: Sketchnote, 5
 ^ The work we do rarely fits exactly into a sprint. When it seems to, it's usually artificially fitted to the arbitrary time constraint.
 ^ TODO expand on timeboxes. Explain an alternative
 
+
+
 ---
 
 # Forget Sprints: Customer Collaboration
@@ -265,7 +280,7 @@ theme: Sketchnote, 5
 
 ---
 
-# Just-In-Time Planning
+# Forget Sprints: Just-in-Time Planning
 
 ^ TODO Explain. Use board for signal, not time
 
@@ -276,28 +291,104 @@ theme: Sketchnote, 5
 ^ If we want to respond to change meaningfully, it helps to avoid filling up multiple weeks worth of a schedule. As well as working with out customers, we should be able to handle interruptions when they happen. We should be able to take onboard new learning quickly.
 ^ TODO EXPAND explain an alternative
 
+---
+
+# Forget Sprints: Continuous Delivery
+
+^ TODO
 
 ---
 
-# Chapter XXXX: Postwar Swedish Car Streaming Blues
+^ TODO conclusion:  Want to decide next thing of value, come up with an experiment of how to achieve that, figure out whether it worked. Needs constrained in some way, but "two week sprint every time" is crude. What other constraints could you use? What does the board tell us?
+
+
+---
+
+# Chapter XXXX: Postwar Swedish Car Streaming Ritual
 
 ^ TODO Models, spotify
+^ TODO image of dog in car
+
+---
+
+^ TODO image
+^ Ritualism.
+^ Humans like ceremonies. They like ritualism. They give us a sense of order and certainty against the howl of an uncaring universe.
+^ When we partake in ceremonies and rituals, we are leaving our responsibility at the door. That's a powerful thing. Do the right moves, chant in the right way, and the ceremony will provide an outcome. Sometimes, like a wedding, that outcome is a commitment.
+^ TODO is this too rambling/incoherent? Maybe need some examples.
+
+---
+
+# Frameworks Are For Feelings
+
+^ So we turn to Frameworks, like XP or Scrum or myriad others. They make us feel better. They give us a method, any method, so we can make progress and measure ourselves against the yardstick of the framework.
+
+---
+
+^ TODO image
+^ But often we don't know why. Ask your teams why they stand-up, who is it for, and how much they care. Ask the same about all your ceremonies. Run a retro on retros. If there is trust in the room, you might find they don't really know why they are doing these ceremonies; and it's certainly not for their own benefit. (Aside: how often do you see teams who skip stand-ups when their PO/SM isn't there? TOO MANY)
+
+---
+
+# Spoti-what?
+
+^ This happens beyond the team at the org level too. There are lots of models that people try to copy without consideration. Consider something like the Spotify Model. We're seeing the language of tribes and guilds spread, but without any real understanding of the why.
+
+---
+
+* Spotify Model was originally a sketch of an idea.
+* It was partly implemented at Spotify, but not fully or uniformly.
+* It was only tried in part of the org.
+
+^ The thing is Spotify didn't particularly use the model. Depending on who you see speak about it, you realise it was never really anything more than a snapshot.
+^ So the spotify model wasn't fully used, didn't really exist. At this point, do we know if Spotify itself really exists?
+
+---
+
+# Lessons From Spotify
+
+* The model doesn't really matter.
+* The journey is what matters
+* Give teams space to think about improvement.
+
+^ TODO more here?
 
 ---
 
 ![original fit](images/not-spotify.png)
 
----
+^ I love this quote. It sums up a big part of what I'm getting at: your org are not these other orgs. Stop trying to be them; try to figure out who you are. It's fine to look for inspiration, but copying, less so.
+
+<!-- ---
 
 # Chapter XXXX: Continuous Delivery is Your Future
 
-^ TODO Ci/CD,
+^ TODO Ci/CD, -->
 
 ---
 
 # Chapter XXXX: I Am Wrong, And So Might You Be
 
-^ TODO include structurelessness
+^ Here's the thing: I'm rabble-rousing. I'm encouraging you to leave behind all the tawdry constraints of the models and ceremonies and do something for yourself.
+^ I know I'm wrong.
+
+---
+
+^ TODO models are useful
+
+---
+
+^ TODO anarchy vs autonomy
+
+---
+
+^ TODO structurelessness
+
+---
+
+# I'm Wrong, And So Might You Be.
+
+^ I Know I'm wrong. So might you be. 
 
 ---
 
