@@ -1,4 +1,4 @@
-theme: Sketchnote, 5
+theme: Next, 4
 
 ![](images/bulldog.jpg)
 
@@ -28,7 +28,7 @@ theme: Sketchnote, 5
 
 ---
 
-# Breeds
+# Breeds vs. Species
 
 ^ It's important to realise that dogs are all the same species; as distinct to say, birds.
 ^ Most breeds are relatively modern, with breed standards starting only 100-150 years ago. Newer breeds can be a few decades old.
@@ -36,7 +36,9 @@ theme: Sketchnote, 5
 
 ---
 
-^ TODO image
+# A Sickness
+
+![original](images/sick-dog.jpg)
 
 ^ But a growing sickness: we favoured short-term outcomes and feeling good over systemic health.
 
@@ -47,23 +49,24 @@ theme: Sketchnote, 5
 
 @garyfleming
 
+![](images/dog-bottom.jpg)
+
 ^ Anyway, that's enough about dogs and breeding. On to something that is entirely unrelated.
 ^ Who I am.
 ^ I'm here to talk about agile and its current breeds... Did I say breeds? I meant frameworks.
 
 ---
 
-^ I'm going to start with a little bit of a general constraint, then talk about some small practical ideas, and move on to bigger ideas that might be a bit more... slobbery
-^ TODO 3 pictures: collar (constraint), chihuahua (small), St. Bernard's (big)
+![fit](images/cone-dog.jpg) ![fit](images/small-dogs.jpg) ![fit](images/st-bernard.jpg)
 
+^ I'm going to start with a little bit of a general constraint, then talk about some small practical ideas, and move on to bigger ideas that might be a bit more... slobbery
 
 ---
 
 # Chapter XXXX: Forgotten Value
 
-![](images/value.jpg)
+![](images/cone-dog.jpg)
 
-^ TODO change the picture to something DOGGY (possibly a collar)
 ^ We should be focussing on the things we value, not the means by which we do them.
 ^ A while back I was getting fed-up seeing rote forms of agile. People doing the scrum they learned from someone else. People following a process with which they had absolutely no engagement. Meme-copying. Cargo culting. They'd forgotten the value. They'd forgotten to think.
 
@@ -79,9 +82,9 @@ theme: Sketchnote, 5
 
 ---
 
-# People. It's a team sport.
+# It's a team sport.
 
-![](images/team-sport.jpg)
+![original](images/four-puppers.jpg)
 
 ^ It's about people. Working together. Well.
 ^^^ The work we're doing is a team sport.
@@ -109,16 +112,18 @@ theme: Sketchnote, 5
 
 ---
 
-| Collaboration | Constraint |
+| Collaboration | Governance |
 | --- | ---: |
 | Individuals and Interactions | Processes and Tools |
 | Working Software | Comprehensive Documentation |
 | Customer Collaboration | Contract Negotiation |
 | Responding to Change | Following a Plan |
 
-^^ The left hand side are notions of working together collaboratively without structure, the right hand size is management/structure/control.
+^^ The left hand side are notions of working together collaboratively without structure, the right hand size is structure/control/governance.
 
 ---
+
+![original fit](images/dog-jumping.jpg)
 
 ^ So lets's talk about that: let's talk about how we put the Agile back in our process and figure out other ways to get what we value
 
@@ -142,6 +147,8 @@ theme: Sketchnote, 5
 
 # Death Spiral of Justification
 
+![original](images/dog-skull.jpg)
+
 ^ People go on far too long in order to justify their existence. People don't come to work to not do anything, so why make them justify what they did every day? Why make people listen to a list of tasks someone else did yesterday? I promise you that I don't care. It's not news. Just like the "Queen isn't dead".
 
 ---
@@ -154,13 +161,17 @@ theme: Sketchnote, 5
 
 # Make Standing Up Burden-Free #
 
+![fit](images/stand-up-dane.jpg)
+
 ^ How might we improve?
 ^ Focus on the work. Walk the board. Start on the far right (most done) column, and move left so that we focus on getting things finished.
 ^ If people don't speak on a given day, that's fine. Make it clear we just want status and any issues. Don't need a comprehensive walkthrough of what you did.
 
 ---
 
-^ TODO image/header. Dog/goal. Dog sprinting.
+# Sprint Goals
+
+![original](images/dog-running.jpg)
 
 ^ Take a minute to think about the sprint goal. Are we still headed towards it? If not, why not? It's okay to not be, but understand why and what could be done. That's what this ceremony is supposed to be for: alignment to and progress towards the sprint goal.
 
@@ -191,19 +202,34 @@ theme: Sketchnote, 5
 
 # Generic Retros
 
+## 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶
+## 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶
+## 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶
+## 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶
+
 ^ retrospective formats. A handful of standards, all probing the same thing. Stop, start, continue. Lacked, liked, lalala. Million better ways to go.
 ^ The problem with standard retros is they eventually dissolve engagement. People see a rote idea and act accordingly.
 ^ TODO Add more here
 
 ---
 
+# Retro Exploration
+
 ![original](images/exploring-dog.jpg)
 
 ^ Lots of avenues to explore. Think about what people have been grumbling about during the week and do a retro on that.
-^ Pick a topic and focus: mobbing, planning, code reviews, whatever.
+^ Deep dive a previous grumble. Pick a topic and focus: mobbing, planning, code reviews, whatever.
 ^ Maybe you want to focus on team harmony - Focus a retro around where people are and aren't working well together.
-^ Ask "What would the other teams we work with say about us? How do we change that?"
-^ TODO list some of the examples in a slide
+
+---
+
+# Retro Exploration
+
+![](images/exploring-dog.jpg)
+
+* "Let's talk about Code Reviews"
+* "What would the other teams we work with say about us? How do we change that?"
+* "Are we the right-shape for a team?"
 
 ---
 
@@ -227,13 +253,9 @@ theme: Sketchnote, 5
 
 # Chapter XXXX: The New Year's Resolution
 
-^ TODO Cadence -- Not happy with he bits I lifted from earlier version
-
 ---
 
-![](images/nyr.jpg)
-
-^ TODO replace image with dog in party hat
+![fit](images/dog-party-hat.jpg)
 
 ^ Someone told me once, in late-October, that they were planning to start going to the gym in January. A new year's resolution.
 ^ We had a chat and it was clear it was something they wanted to do to aid in their goals (overall fitness, losing weight).
@@ -311,7 +333,8 @@ theme: Sketchnote, 5
 
 ---
 
-^ TODO image
+![original fit](images/dog-ritual.jpg)
+
 ^ Ritualism.
 ^ Humans like ceremonies. They like ritualism. They give us a sense of order and certainty against the howl of an uncaring universe.
 ^ When we partake in ceremonies and rituals, we are leaving our responsibility at the door. That's a powerful thing. Do the right moves, chant in the right way, and the ceremony will provide an outcome. Sometimes, like a wedding, that outcome is a commitment.
@@ -395,8 +418,9 @@ theme: Sketchnote, 5
 
 ---
 
-# Be More Mutt
+# Be Unique. Be You.
 
+![original](images/boston-unicorn.jpg)
 
 ^ TODO conclusion. Bring back to dog breeds. Appreciate the breeds. Appreciate that we need to be careful. Be more willing to accept mutts if they're right for us.
 
