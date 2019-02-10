@@ -246,7 +246,7 @@ theme: Next, 4
 # Retros are Not Continuous Improvement
 
 ^ While we're on retros, let's realise that they aren't continuous improvement. They tend to be slow and on a cadence, a topic I want to delve into deeper very soon.
-^ TODO bulk out
+^ We need to do better.
 
 ---
 
@@ -298,8 +298,7 @@ theme: Next, 4
 # Forget Sprints: Get Greater Value Now
 
 ^ The work we do rarely fits exactly into a sprint. When it seems to, it's usually artificially fitted to the arbitrary time constraint.
-^ TODO expand on timeboxes. Explain an alternative
-
+^ Rather than waiting weeks, how could you get some value right now? Today? Learn about design sprints, CI/CD, and learning more quickly
 
 
 ---
@@ -308,13 +307,15 @@ theme: Next, 4
 
 ^ We should speak to, monitor, and engage with our customers and, we should use that as our feedback loop. We should be working with our customers daily to figure out, given what we collectively know, what we should be thinking about right now.
 ^ NOT what we might start in two weeks time. Or usually multiple sprints away.
-^ TODO expand
+
 
 ---
 
 # Forget Sprints: Just-in-Time Planning
 
-^ TODO Explain. Use board for signal, not time
+![original inline](images/active-col-full.png)
+
+^ Rather than planning on cadence, consider planning just-in-time. There are different ways of doing this, but rather than using time as your mechanism for more planning, use the board. As the "Ready for Analysis" column empties, use it as a signal to have more work ready to add.
 
 ---
 
@@ -327,19 +328,20 @@ theme: Next, 4
 
 # Forget Sprints: Continuous Delivery
 
-^ TODO
+^ And rather than releasing on cadence, do it ALL THE TIME. Why wait a few weeks to get value when you can start today?
 
 ---
 
-^ TODO conclusion:  Want to decide next thing of value, come up with an experiment of how to achieve that, figure out whether it worked. Needs constrained in some way, but "two week sprint every time" is crude. What other constraints could you use? What does the board tell us?
+![original fit](images/experiments.jpg)
+
+^  Want to decide next thing of value, come up with an experiment of how to achieve that, figure out whether it worked. Needs constrained in some way, but "two week sprint every time" is crude. What other constraints could you use? What does the board tell us?
 
 
 ---
 
 # Chapter 5: Postwar Swedish Car Streaming Ritual
 
-^ TODO Models, spotify
-^ TODO image of dog in car
+![original fit](images/dog-car.jpg)
 
 ---
 
@@ -358,7 +360,8 @@ theme: Next, 4
 
 ---
 
-^ TODO image
+![original fit](images/dog-teacup.jpg)
+
 ^ But often we don't know why. Ask your teams why they stand-up, who is it for, and how much they care. Ask the same about all your ceremonies. Run a retro on retros. If there is trust in the room, you might find they don't really know why they are doing these ceremonies; and it's certainly not for their own benefit. (Aside: how often do you see teams who skip stand-ups when their PO/SM isn't there? TOO MANY)
 
 ---
@@ -384,7 +387,8 @@ theme: Next, 4
 * The journey is what matters
 * Give teams space to think about improvement.
 
-^ TODO more here?
+^ The Spotify Model really isn't about the model. It's about a culture from top-to-bottom that supports experimentation and innovation. That's fine with putting new ideas out there and giving them a try.
+^ Foster a culture of trying
 
 ---
 
@@ -418,17 +422,30 @@ theme: Next, 4
 
 ---
 
-^ TODO models are useful
+![original](images/puzzle.jpg)
+
 ^ Starting from nothing... is kinda hard. It's useful to start from an existing model and evolve it. Heck, Scrum calls it out in the three pillars (visualise, inspect, adapt). We should see the models, frameworks, ceremonies etc as tools in a toolbelt. We should pull them out when appropriate. We should put them back and choose another when we can. We should accept there are tools that don't already exist that we might have to experiment to find.
 
 
 ---
 
+![original](images/valve.jpg)
+
 ^ Structurelessness can be tyrannical. There's a games company who are well-known to be flat and structureless... but the stories we're now hearing about it suggest that's not the case. In the presence of no formal structures, informal structures crept in. That meant factionalism, cronyism, bullying. It's much harder to fix problems in informal structures, especially when no formal structures exist to enact them.
 
 ---
 
-^ TODO anarchy vs autonomy
+# Anarchy vs Autonomy
+
+## Autonomy is enabled by alignment and competence
+
+^ Marquet argues that autonomy is enabled by alignmnet and competence. We're not looking for a rule free world. Or everyone doing their own thing. While that might be possible, it's not particularly tractable; hard to get from here to there.
+
+---
+
+# Seek the Right Constraints.
+
+^ Find Constraints that make sense for you, particularly when we're working in complexity. These are governing and enabling constraints. Look beyond the ones that come in the box with the model. Look beyond time.
 
 
 ---
@@ -443,7 +460,7 @@ theme: Next, 4
 
 ![original](images/boston-unicorn.jpg)
 
-^ TODO conclusion. Bring back to dog breeds. Appreciate the breeds. Appreciate that we need to be careful. Be more willing to accept mutts if they're right for us.
+^ Bring back to dog breeds. Appreciate the breeds. Appreciate that we need to be careful. Be more willing to accept mutts if they're right for us.
 
 ---
 
