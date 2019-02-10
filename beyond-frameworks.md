@@ -57,13 +57,19 @@ theme: Next, 4
 
 ---
 
+![original fit](images/bad-mouthing.png)
+
+^ So, someone way smarter than me said this, and I agree. I want to be clear that I'm not trying to bad mouth existing methods. I want focus on finding more value in them, or seeking alternatives where appropriate, while accepting the existing methods were contextually useful at some point in time.
+
+---
+
 ![fit](images/cone-dog.jpg) ![fit](images/small-dogs.jpg) ![fit](images/st-bernard.jpg)
 
 ^ I'm going to start with a little bit of a general constraint, then talk about some small practical ideas, and move on to bigger ideas that might be a bit more... slobbery
 
 ---
 
-# Chapter XXXX: Forgotten Value
+# Chapter 1: Forgotten Value
 
 ![](images/cone-dog.jpg)
 
@@ -129,7 +135,7 @@ theme: Next, 4
 
 ---
 
-# Chapter XXXX: Standing up
+# Chapter 2: Standing up
 
 ![fit](images/stand-up-dane.jpg)
 
@@ -138,7 +144,7 @@ theme: Next, 4
 
 ---
 
-# Usually Bad. Why? #
+# Usually Bad. Why?
 
 ^ When I first wrote this, no fewer than 3 people, unprompted, told me they hate their standups, so I think I'm barking up the right tree.
 ^ They're not engaging. Often just using the three questions (What did you do yesterday...?) to tick boxes and do traditional waterfall project management. No engagement, no purpose, no joy.
@@ -155,6 +161,8 @@ theme: Next, 4
 
 # The Long Wait
 
+![original fit](images/wait.jpg)
+
 ^ People also often leave all issues until the standup. This is infuriating. If someone else in the team can help, don't wait! Go ask. We might all have pieces of the work, but we all must have the same goal. No-one wins unless we all do.
 
 ---
@@ -165,7 +173,7 @@ theme: Next, 4
 
 ^ How might we improve?
 ^ Focus on the work. Walk the board. Start on the far right (most done) column, and move left so that we focus on getting things finished.
-^ If people don't speak on a given day, that's fine. Make it clear we just want status and any issues. Don't need a comprehensive walkthrough of what you did.
+^ If people don't speak on a given day, that's fine. Make it clear we just want any issues or requests for help. Don't need a comprehensive walkthrough of what you did.
 
 ---
 
@@ -177,11 +185,13 @@ theme: Next, 4
 
 ---
 
-^ TODO some kind of conclusion
+# Stand-ups are part of team play
+
+^ If you use stand-ups, remember that they're how your team gets together to make sure they'll get the joint goals achieved. Make sure we're all getting that value.
 
 ---
 
-# Chapter XXXX: Every Time You Draw 🎨 a Sailboat ⛵️, A Fairy 🧚‍♀️ Dies 💀
+# Chapter 3: Every Time You Draw 🎨 a Sailboat ⛵️, A Fairy 🧚‍♀️ Dies 💀
 
 ^ I want to start by saying I don't hate the sailboat retro and I don't think you're a bad person for using it. I use it a bunch, particularly when I start working with teams, or I'm running a retro for a team I don't know.
 
@@ -209,7 +219,7 @@ theme: Next, 4
 
 ^ retrospective formats. A handful of standards, all probing the same thing. Stop, start, continue. Lacked, liked, lalala. Million better ways to go.
 ^ The problem with standard retros is they eventually dissolve engagement. People see a rote idea and act accordingly.
-^ TODO Add more here
+^ They want to enjoy
 
 ---
 
@@ -251,7 +261,7 @@ theme: Next, 4
 
 ---
 
-# Chapter XXXX: The New Year's Resolution
+# Chapter 4: The New Year's Resolution
 
 ---
 
@@ -326,7 +336,7 @@ theme: Next, 4
 
 ---
 
-# Chapter XXXX: Postwar Swedish Car Streaming Ritual
+# Chapter 5: Postwar Swedish Car Streaming Ritual
 
 ^ TODO Models, spotify
 ^ TODO image of dog in car
@@ -382,15 +392,26 @@ theme: Next, 4
 
 ^ I love this quote. It sums up a big part of what I'm getting at: your org are not these other orgs. Stop trying to be them; try to figure out who you are. It's fine to look for inspiration, but copying, less so.
 
+---
+
+# Chapter 6: Reel Missing
+
+## 🎞🎞🎞🎞🎞⛔️🎞
+
+^ Chapter 6 isn't quite where I want it to be yet. Consider it a missing reel.
+
+
 <!-- ---
 
-# Chapter XXXX: Continuous Delivery is Your Future
+# Chapter 6: Continuous Delivery is Your Future
 
-^ TODO Ci/CD, -->
+^ TODO Ci/CD,
+^ Premise is that CD practices are the current best guess at future of agile. Let's talk about why, the data, the how, feedback loops etc. Link back to the Cat Swetel quote from the start
+ -->
 
 ---
 
-# Chapter XXXX: I Am Wrong, And So Might You Be
+# Chapter 7: I Am Wrong, And So Might You Be
 
 ^ Here's the thing: I'm rabble-rousing. I'm encouraging you to leave behind all the tawdry constraints of the models and ceremonies and do something for yourself.
 ^ I know I'm wrong.
