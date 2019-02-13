@@ -23,8 +23,9 @@ theme: Next, 4
 
 ![](images/great-dane.jpg)
 
-^ On the other end of the spectrum from the sausage dog, we have the Great Dane. As a breed, they tend to be exceptionally friendly, very nervous of other dogs (hence the Scooby Doo stereotype), and absolutely massive.
+^ On the other end of the spectrum from the sausage dog, we have the Great Dane. As a breed, they tend to be exceptionally friendly, very nervous of other dogs (hence the Scooby Doo stereotype), and absolutely massive. Biggest dog is a Great Dane called Zeus, who was 7'4" at 3 years old.
 ^ The problem with big dogs like this are, sadly, manifold. From joint issues to weak hearts, they have a lifespan of 8-10 years.
+^ Zeus died age 5.
 
 ---
 
