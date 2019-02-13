@@ -345,6 +345,12 @@ theme: Next, 4
 
 ---
 
+# Ritualism
+
+^ People have lots of rituals and ceremonies that we cling to. We have the big obvious ones like weddings, and we have the little family rituals like always going to the same restaurant after going to the cinema.
+
+---
+
 ![original fit](images/dog-ritual.jpg)
 
 ^ Ritualism.
