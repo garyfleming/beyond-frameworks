@@ -138,7 +138,7 @@ theme: Next, 4
 
 # Chapter 2: Standing up
 
-![fit](images/stand-up-dane.jpg)
+![left fit](images/stand-up-dane.jpg)
 
 ^ If agile teams have a common practice that is near universal, it's the morning standup. Sadly, it's also the place where I first see dysfunction amongst most teams.
 
@@ -146,6 +146,8 @@ theme: Next, 4
 ---
 
 # Usually Bad. Why?
+
+![right](images/bad-dog.jpg)
 
 ^ When I first wrote this, no fewer than 3 people, unprompted, told me they hate their standups, so I think I'm barking up the right tree.
 ^ They're not engaging. Often just using the three questions (What did you do yesterday...?) to tick boxes and do traditional waterfall project management. No engagement, no purpose, no joy.
@@ -180,13 +182,15 @@ theme: Next, 4
 
 # Sprint Goals
 
-![original](images/dog-running.jpg)
+![left ](images/dog-running.jpg)
 
 ^ Take a minute to think about the sprint goal. Are we still headed towards it? If not, why not? It's okay to not be, but understand why and what could be done. That's what this ceremony is supposed to be for: alignment to and progress towards the sprint goal.
 
 ---
 
 # Stand-ups are part of team play
+
+![right](images/three-pups.jpg)
 
 ^ If you use stand-ups, remember that they're how your team gets together to make sure they'll get the joint goals achieved. Make sure we're all getting that value.
 
@@ -373,15 +377,19 @@ theme: Next, 4
 
 ---
 
-# Spoti-what?
+# Spoti-why?
+
+![original](images/dalmation.jpg)
 
 ^ This happens beyond the team at the org level too. There are lots of models that people try to copy without consideration. Consider something like the Spotify Model. We're seeing the language of tribes and guilds spread, but without any real understanding of the why.
 
 ---
 
-* Spotify Model was originally a sketch of an idea.
-* It was partly implemented at Spotify, but not fully or uniformly.
-* It was only tried in part of the org.
+![](images/dalmation2.jpg)
+
+* Spotify Model was a sketch.
+* Only partly implemented.
+* Only in part of the org.
 
 ^ The thing is Spotify didn't particularly use the model. Depending on who you see speak about it, you realise it was never really anything more than a snapshot.
 ^ So the spotify model wasn't fully used, didn't really exist. At this point, do we know if Spotify itself really exists?
@@ -389,6 +397,8 @@ theme: Next, 4
 ---
 
 # Lessons From Spotify
+
+![](images/dalmation3.jpg)
 
 * The model doesn't really matter.
 * The journey is what matters
@@ -424,6 +434,8 @@ theme: Next, 4
 
 # Chapter 7: I Am Wrong, And So Might You Be
 
+![](images/sad-dog.jpg)
+
 ^ Here's the thing: I'm rabble-rousing. I'm encouraging you to leave behind all the tawdry constraints of the models and ceremonies and do something for yourself.
 ^ I know I'm wrong.
 
@@ -452,6 +464,8 @@ theme: Next, 4
 
 # Seek the Right Constraints.
 
+![right fit](images/dog-cone.jpg)
+
 ^ Find Constraints that make sense for you, particularly when we're working in complexity. These are governing and enabling constraints. Look beyond the ones that come in the box with the model. Look beyond time.
 
 
@@ -465,7 +479,15 @@ theme: Next, 4
 
 # Be Unique. Be You.
 
-![original](images/boston-unicorn.jpg)
+![right ](images/koda.jpg)
+
+^ Bring back to dog breeds. Appreciate the breeds. Appreciate that we need to be careful. Be more willing to accept mutts if they're right for us.
+
+---
+
+# Be Unique. Be You.
+
+![right](images/boston-unicorn.jpg)
 
 ^ Bring back to dog breeds. Appreciate the breeds. Appreciate that we need to be careful. Be more willing to accept mutts if they're right for us.
 
