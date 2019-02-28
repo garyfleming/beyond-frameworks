@@ -50,7 +50,7 @@ theme: Next, 4
 
 @garyfleming
 
-![](images/dog-bottom.jpg)
+![original](images/dog-bottom.jpg)
 
 ^ Anyway, that's enough about dogs and breeding. On to something that is entirely unrelated.
 ^ Who I am.
@@ -346,7 +346,7 @@ theme: Next, 4
 
 # Chapter 5: Postwar Swedish Car Streaming Ritual
 
-![original fit](images/dog-car.jpg)
+![left ](images/dog-car.jpg)
 
 ---
 
@@ -495,5 +495,6 @@ theme: Next, 4
 
 # Thank You
 
+![right ](images/koda.jpg)
 
-@garyfleming
+## @garyfleming
