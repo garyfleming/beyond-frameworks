@@ -1,5 +1,6 @@
 # Beyond Frameworks: Thinking and Tools
 
+## Alt. title: Learn to Be Agile Without Frameworks
 
 
 ## Abstract
@@ -12,6 +13,13 @@ From the idea of cadence to the ceremonies of Scrum, let's examine the value of 
 
 We'll separate the Why from the What, the Wheat from the Chaff, the Agile from the marketing.
 
+## Learning Outcomes
+
+1. You'll see why Agile is not about frameworks, it's about people!
+2. You'll get a bunch of new ways of using Agile tools that aren't part of a heavy framework.
+3. You'll see that the things you dislike about Agile can be fun with just a little thought
+
 ## History
 
-Currently a work-in-progress lightning talk being targeted towards Lean Agile Glasgow, September 12th 2018.
+* Lean Agile Glasgow, February 13th 2019
+* LeanAgileUS, February 25th 2019
