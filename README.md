@@ -21,5 +21,6 @@ We'll separate the Why from the What, the Wheat from the Chaff, the Agile from t
 
 ## History
 
-* Lean Agile Glasgow, February 13th 2019
+* Lean Agile Glasgow, February 13th 2019 (preview)
 * LeanAgileUS, February 25th 2019
+* [Lean Agile Edinburgh](https://youtu.be/iVNMxah9f-o?t=3749), May 21st 2019
